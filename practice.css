@@ -1,0 +1,25 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #0c000b;
+}
+
+h1, h2 {
+	font-family: Georgia, serif;
+	font-weight: normal;
+	color: #100227;
+}
+
+ul, ol {
+	margin-left: 20px;
+}
+
+.tableau-graph {
+	margin: 20px 0;
+}
+img {
+    width: 30%;
+    height: auto;
+  }
+  
